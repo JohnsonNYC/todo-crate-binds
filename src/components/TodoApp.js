@@ -58,7 +58,7 @@ const TodoApp = () => {
   return (
     <Container>
       <Wrapper>
-        <Title>For CrateBind and Lifeway!</Title>
+        <Title>For CrateBind and Lifeway - by Johnson</Title>
         <TodoForm
           todoList={todoList}
           setTodoList={setTodoList}
